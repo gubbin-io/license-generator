@@ -1,0 +1,13 @@
+{
+  "name": "license-generator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "license-checker": "^25.0.1",
+    "template-file": "^5.1.0"
+  },
+  "devDependencies": {}
+}

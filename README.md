@@ -2,7 +2,7 @@
 
 Generates a list of third party dependencies for Gubbin in a Latex table.
 
-Make sure this repository is placed next to the main repo, and it has the foldername `Gubbin`.
+Make sure this repository is placed next to the main repo, and the main repo has the foldername `Gubbin`.
 
 **To run:**
 

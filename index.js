@@ -26,7 +26,7 @@ async function generateDepRows(path) {
         ? `\\href{${licenseObj.repository}}{${licenseObj.repository}}`
         : "Not provided";
 
-      res += `    ${moduleName}   &   ${licenseObj.licenses}      & ${repository} \\\\\n`;
+      res += `    ${moduleName}  &  ${licenseObj.licenses}  &  ${repository} \\\\\n`;
     }
   }
 
